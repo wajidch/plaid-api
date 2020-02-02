@@ -1,0 +1,20 @@
+{
+  "name": "plaid App",
+  "version": "0.1.0",
+  "description": "Apis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "decoreitsolution@gmail.com",
+  "repository": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.18.x",
+    "ejs": "2.5.x",
+    "envvar": "1.1.x",
+    "express": "4.16.x",
+    "moment": "2.22.x",
+    "plaid": "4.x.x"
+  }
+}
